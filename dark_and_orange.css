@@ -914,9 +914,9 @@ ts-mention { background: rgba(130, 130, 130, 0.1) !important; color: #FF7F00 !im
 
 .star_item .star_meta { color: #949494; }
 
-.bot_message .message_sender { color: #FF7F00; }
+.bot_message .message_sender { color: #763568; }
 
-.bot_message .message_sender a { color: #FF7F00; }
+.bot_message .message_sender a { color: #763568; }
 
 .color_USLACKBOT:not(.nuc), #col_channels ul li:not(.active):not(.away) > .color_USLACKBOT:not(.nuc), #col_channels:not(.show_presence) ul li > .color_USLACKBOT:not(.nuc) { color: #FF7F00; }
 

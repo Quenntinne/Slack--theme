@@ -914,9 +914,9 @@ ts-mention { background: rgba(130, 130, 130, 0.1) !important; color: #FF7F00 !im
 
 .star_item .star_meta { color: #949494; }
 
-.bot_message .message_sender { color: #763568; }
+.bot_message .message_sender { color:  #8E44AD; }
 
-.bot_message .message_sender a { color: #763568; }
+.bot_message .message_sender a { color:  #8E44AD; }
 
 .color_USLACKBOT:not(.nuc), #col_channels ul li:not(.active):not(.away) > .color_USLACKBOT:not(.nuc), #col_channels:not(.show_presence) ul li > .color_USLACKBOT:not(.nuc) { color: #FF7F00; }
 
@@ -1274,7 +1274,7 @@ div.CodeMirror span.CodeMirror-nonmatchingbracket { color: #bf360c; }
 
 .light_theme ts-message { color: #FF7F00; }
 
-.light_theme ts-message .message_content .message_sender, .light_theme ts-message .message_content .meta .message_sender:hover { color: #FF7F00 !important; }
+.light_theme ts-message .message_content .message_sender, .light_theme ts-message .message_content .meta .message_sender:hover { color:  #8E44AD !important; }
 
 .light_theme ts-message .comment::before { color: #949494; }
 
@@ -1522,7 +1522,7 @@ ts-thread .new_reply_indicator .blue_dot { color: #bf360c; }
 
 .c-channel_insights__drawer_title { color: #949494; }
 
-.c-channel_insights__item--user .member_preview_link, .c-channel_insights__item--user .message_sender { color: #FF7F00 !important; }
+.c-channel_insights__item--user .member_preview_link, .c-channel_insights__item--user .message_sender { color:  #8E44AD !important; }
 
 .c-channel_insights__user_title { color: #949494; }
 
@@ -1918,7 +1918,7 @@ span.match { background: rgba(191, 54, 12, 0.25); }
 
 #client-ui .file_list_item.file_list_item--redesign .file_list_item__channel { color: #949494; }
 
-#client-ui .file_list_item.file_list_item--redesign .message_sender { color: #949494; }
+#client-ui .file_list_item.file_list_item--redesign .message_sender { color:  #8E44AD; }
 
 .p-shortcuts_flexpane__shortcut { border-color: #000; }
 
